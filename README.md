@@ -31,7 +31,7 @@ Economista en formación, apasionada por la tecnología, la programación, la es
 - Modelos de econometría y machine learning
 - Razonamiento lógico
 
-## 🔗 &nbsp;Contact Me
+## 🔗 &nbsp;Contacto
 
 <div align="center">
 <a href="mailto:andypen1212@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
