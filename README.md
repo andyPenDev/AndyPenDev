@@ -2,11 +2,11 @@
 <img alt="image" src="https://github.com/user-attachments/assets/e3494f02-c4dc-437d-94e5-f195d3d4b3ad" />
   
 # 💫 Acerca de mí:
-Economista en formación, apasionada por la tecnología, la programación, la estadística y el diseño digital. Manejo herramientas y lenguajes de programación aplicados al análisis de datos, modelos econométricos, desarrollo web y diseño de interfaces visuales, con un enfoque orientado a las finanzas y la banca. En el presente repositorio demuestro mi capacidad para desarrollar modelos estadisticos y econométricos asi como también las implicaciones delos resultados. Mi interés por el diseño digital me permite crear soluciones analíticas que combinan precisión técnica y usabilidad visual para apoyar la toma de decisiones estratégicas.
+Economista en formación, apasionada por la tecnología, la programación, la estadística y el diseño digital. Manejo herramientas y lenguajes de programación aplicados al análisis de datos, modelos econométricos, desarrollo web y diseño de interfaces visuales, con un enfoque orientado a las finanzas y la banca. En el presente repositorio demuestro mi capacidad para desarrollar modelos estadisticos y econométricos asi como también las implicaciones de los resultados. Mi interés por el diseño digital me permite crear soluciones analíticas que combinan precisión técnica y usabilidad visual para apoyar la toma de decisiones estratégicas.
 
-**Estoy interesada en trabajar para el sector bancario aplicando tecnologias de la informacion**
+**Estoy interesada en trabajar para el sector bancario aplicando tecnologias de la información**
 
-🌱 Actualmente estoy aprendiendo automatizacion y manejo de bases de datos en SQL integrado a Power BI.
+🌱 Actualmente estoy aprendiendo automatización y manejo de bases de datos en SQL integrado a Power BI.
 
 
 ## 💻 Tech Stack:
@@ -22,11 +22,11 @@ Economista en formación, apasionada por la tecnología, la programación, la es
 
 
 ## 🧠 Habilidades analíticas
-- Realizacion de reportes y dashboard
-- Visualizacion de datos
+- Realización de reportes y dashboard
+- Visualización de datos
 - Analisis de riesgos
 - Modelos de econometría y machine learning
-- Razonamiento logico
+- Razonamiento lógico
 
 ## 🔗 &nbsp;Contact Me
 
