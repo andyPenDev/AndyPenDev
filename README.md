@@ -8,7 +8,7 @@ Economista en formación, apasionada por la tecnología, la programación, la es
 
 **Estoy interesada en trabajar para el sector bancario aplicando tecnologías de la información**
 
-🌱 Actualmente estoy aprendiendo automatización y manejo de bases de datos en SQL integrado a Power BI.
+🌱 Además, estoy aprendiendo automatización y manejo de bases de datos en SQL integrado a Power BI.
 
 
 ## 💻 Tech Stack:
